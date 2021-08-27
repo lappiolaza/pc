@@ -13,8 +13,9 @@ public class ejercicio4 {
 	
 	}		
 	public static void main(String[] args) {
-		double [] v = new double [22];
+		double [] v = new double [92];
 		acceso_por_indice (v,18);
+		System.out.println("Valor antes del return: ");
 
 	}
 
