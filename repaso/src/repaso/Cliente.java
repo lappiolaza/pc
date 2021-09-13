@@ -1,5 +1,5 @@
 package repaso;
-
+//ejercicio 1
 public class Cliente extends Thread {
 	public void run() {
 		System.out.println("soy"+Thread.currentThread().getName());

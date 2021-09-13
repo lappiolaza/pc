@@ -1,4 +1,3 @@
-package repaso;
 //ejercicio 1
 class Recurso{
 	static void uso() {
